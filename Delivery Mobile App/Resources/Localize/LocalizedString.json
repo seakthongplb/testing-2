@@ -1,0 +1,38 @@
+{
+    "app_name" : {
+        "en" : "Hello",
+        "km" : "សួស្តី"
+    },
+    "you" : {
+        "en" : "YOU",
+        "km" : "អ្នក"
+    },
+    "welcome_label" : {
+        "en" : "Welcome",
+        "km" : "សូមស្វាគមន៍"
+    },
+    "login_as_customer_narrative_label" : {
+        "en" : "We are so happy to see. You can contribute to login for sending and receiving services.",
+        "km" : "យើងខ្ញុំពិតជាសប្បាយចិត្ត ដែលអ្នកបានប្រើប្រាស់សេវាកម្មយើង."
+    },
+    "login_as_driver_narrative_label" : {
+        "en" : "We are so happy to see. You can contribute to login for sending and receiving services.",
+        "km" : "យើងខ្ញុំពិតជាសប្បាយចិត្ត ដែលអ្នកបានប្រើប្រាស់សេវាកម្មយើង."
+    },
+    "phone_number_placeholder" : {
+        "en" : "Phone Number",
+        "km" : "លេខទូរស័ព្ទ"
+    },
+    "password_placeholder" : {
+        "en" : "Password",
+        "km" : "ពាក្យសម្ងាត់"
+    },
+    "forgot_password_label" : {
+        "en" : "Forgot Password",
+        "km" : "ភ្លេចពាក្យសម្ងាត់"
+    },
+    "" : {
+        "en" : "",
+        "km" : ""
+    }
+}
